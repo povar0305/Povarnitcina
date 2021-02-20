@@ -1,0 +1,14 @@
+{
+    "name": "povar0305/povarnitcina",
+    "type": "library",
+    "authors": [{
+        "name": "Povarnitcina Sofia",
+        "email": "soficko.sofi@yandex.ru"
+    }],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Povarnitcina\\": ""
+        }
+    }
+}
